@@ -45,12 +45,12 @@
 }
 
 .list {
-  margin:0;
+  margin: 0;
   padding: 0px;
 }
 
 .list-style {
-  list-style:none;
+  list-style: none;
 }
 
 .check,
@@ -58,7 +58,7 @@
 .add-button,
 .edit,
 .delete{
-  outline:none;
+  outline: none;
 }
 
 .add-button,
@@ -169,14 +169,14 @@
 
 /* Edit Task */
 .task-input {
-  display:none
+  display: none
 }
 
 .edit-mode .task-input {
-  display:inline-block;
-  width:224px
+  display: inline-block;
+  width: 224px
 }
 
 .edit-mode .mode-label {
-  display:none;
+  display: none;
 }
