@@ -129,7 +129,10 @@
   align-items: center;
 }
 
-.check,.task,.edit,.delete {
+.check,
+.task,
+.edit,
+.delete {
   vertical-align: middle;
 }
 
